@@ -1,5 +1,10 @@
-### Hi there 👋
+### My name is Edgars.
 
+- 🌱 I’m currently focusing on React and Laravel. <br/> <br/> <br/> <br/>
+
+
+
+- Hire me please. 👯
 <!--
 **Volsund/Volsund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
