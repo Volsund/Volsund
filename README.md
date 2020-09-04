@@ -1,6 +1,6 @@
 ### My name is Edgars.
 
-- 🌱 I’m currently focusing on React and Laravel. <br> <br>
+Hello world!
 
 
 
