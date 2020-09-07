@@ -8,7 +8,7 @@
 
 
 
-👯 Hire me!  👯 
+👯 Hire me today!  👯 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Volsund&layout=compact&hide=java&theme=great-gatsby)](https://github.com/Volsund/github-readme-stats)
 
