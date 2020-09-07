@@ -7,5 +7,5 @@ Hello world!
 
 👯 Hire me!  👯 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Volsund)](https://github.com/anuraghazra/github-readme-stats)
 
-![Alt Text](https://s01.flagcounter.com/count2/XLYH/bg_333333/txt_FFFFFF/border_000000/columns_4/maxflags_16/viewers_3/labels_0/pageviews_0/flags_0/percent_0/s01.flagcounter.com/flagcounter.cgi)
