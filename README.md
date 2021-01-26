@@ -1,4 +1,4 @@
-### Helol, My name is Edgars
+### Hello, My name is Edgars
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Volsund&repo=BinderisLaravel&theme=gruvbox)](https://github.com/Volsund/BinderisLaravel)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Volsund&repo=EventSelectorVue&theme=gruvbox)](https://github.com/Volsund/EventSelectorVue)
